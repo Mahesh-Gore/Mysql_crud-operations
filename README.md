@@ -1,5 +1,5 @@
-# Mysql_curd-operations
-Perform curd operations on student db using mysql and php
+# Mysql_crud-operations
+Perform crud operations on student db using mysql and php
 
 Steps that i have perform
 1. created an php file(student.php) to take inputs from user.
